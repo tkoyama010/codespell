@@ -11366,8 +11366,8 @@ docuement->document
 docuements->documents
 docuemnt->document
 docuemnts->documents
-documention->documentation
 docuemtn->document
+documention->documentation
 docuemtnation->documentation
 docuemtned->documented
 docuemtning->documenting
